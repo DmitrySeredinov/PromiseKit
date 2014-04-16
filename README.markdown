@@ -5,7 +5,7 @@ PromiseKit is not just a Promises implementation, it is also a collection of hel
 
 #Using PromiseKit
 
-In your [Podfile](http://guides.cocoapods.org/syntax/podfile.html):
+In your [Podfile](http://guides.cocoapods.org/using/the-podfile.html):
 
 ```ruby
 pod 'PromiseKit'
